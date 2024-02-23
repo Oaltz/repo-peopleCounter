@@ -14,6 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
+<hr>
+
 <h2>Índice 📌</h2>
 
 <p>
@@ -28,7 +30,9 @@
     </ul>
 </p>
 
-<hr>
+<br>
+
+###
 
 <h2 id="resumo">💡 Resumo</h2>
 
@@ -40,7 +44,9 @@
   <img height="200" src="Examples/example.gif"  />
 </div>
 
-<hr>
+<br>
+
+###
 
 <h2 id="tecnico">💻 Técnico</h2>
 
@@ -50,11 +56,15 @@
 
 ###
 
+<br>
+
 <h3 id="pandas">🐼 Pandas (pd):</h3>
 
 <p>O Pandas é utilizado para armazenar e manipular os resultados das detecções em um formato de tabelas. Ele facilita a organização dos dados, permitindo a sua posterior análise e exportação para um arquivo CSV. No código, o Pandas é utilizado para armazenar os resultados de detecção, incluindo informações como o 'timestamp', o total de pessoas detectadas, e quantas estão subindo ou descendo, facilitando a análise posterior desses dados.</p>
 
-<hr>
+<br>
+
+###
 
 <h2 id="finalidade">📋 Finalidade</h2>
 
